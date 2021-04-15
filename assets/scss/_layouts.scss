@@ -1,0 +1,5 @@
+@mixin container-fluid {
+    width: 1200px;
+    max-width: calc(100% - 50px);
+    margin: 0 auto;
+}

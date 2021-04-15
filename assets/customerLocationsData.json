@@ -1,0 +1,57 @@
+[
+    {
+        "text": "Quận 1",
+        "value":"Q1",
+        "wards": [
+            {
+                "text": "Bến Nghé",
+                "value":"pBN"
+            },
+            {
+                "text": "Bến Thành",
+                "value":"pBT"
+            },
+            {
+                "text": "Nguyễn Cư Trinh",
+                "value":"pNCT"
+            }
+        ]
+    },
+    {
+        "text": "Quận 2",
+        "value":"Q2",
+        "wards":[
+            {
+                "text": "Thảo Điền",
+                "value":"pTĐ"
+            },
+            {
+                "text": "Thủ Thiêm",
+                "value":"pTT"
+            },
+            {
+                "text": "An Phú",
+                "value":"pAP"
+            }
+         ]
+    },
+    {
+        "text": "Quận Gò Vấp",
+        "value":"QGV",
+        "wards": [
+            {
+                "text": "Phường 1",
+                "value":"p1"
+            },
+            {
+                "text": "Phường 2",
+                "value":"p2"
+            },
+            {
+                "text": "Phường 3",
+                "value":"p3"
+            }
+        ]
+    }   
+    
+]

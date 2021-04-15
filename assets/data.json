@@ -1,0 +1,454 @@
+{
+  "data": [{
+      "category": "Category 1",
+      "id": "cat01",
+      "products": [{
+          "id": "0101",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0102",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0103",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0104",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0105",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 19000,
+          "quantity": 0
+        },
+        {
+          "id": "0106",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "category": "Category 2",
+      "id": "cat02",
+      "products": [{
+          "id": "0201",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0202",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0203",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0204",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0205",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0206",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "category": "Category 3",
+      "id": "cat03",
+      "products": [{
+          "id": "0301",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0302",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0303",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0304",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0305",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0306",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "category": "Category 4",
+      "id": "cat04",
+      "products": [{
+          "id": "0301",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0302",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0303",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0304",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0305",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0306",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "category": "Category 5",
+      "id": "cat05",
+      "products": [{
+          "id": "0301",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0302",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0303",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0304",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0305",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0306",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "category": "Category 6",
+      "id": "cat06",
+      "products": [{
+          "id": "0301",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0302",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0303",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0304",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0305",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0306",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "category": "Category 7",
+      "id": "cat07",
+      "products": [{
+          "id": "0301",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0302",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0303",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0304",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0305",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0306",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    }, {
+      "category": "Category 8",
+      "id": "cat08",
+      "products": [{
+          "id": "0301",
+          "name": "Product 1",
+          "description": "This is product 1",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0302",
+          "name": "Product 2",
+          "description": "This is product 2",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 16000,
+          "quantity": 0
+        },
+        {
+          "id": "0303",
+          "name": "Product 3",
+          "description": "This is product 3",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 17000,
+          "quantity": 0
+        },
+        {
+          "id": "0304",
+          "name": "Product 4",
+          "description": "This is product 4",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 18000,
+          "quantity": 0
+        },
+        {
+          "id": "0305",
+          "name": "Product 5",
+          "description": "This is product 5",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 15000,
+          "quantity": 0
+        },
+        {
+          "id": "0306",
+          "name": "Product 6",
+          "description": "This is product 6",
+          "image": "https://semantic-ui.com/images/wireframe/image.png",
+          "price": 20000,
+          "quantity": 0
+        }
+      ]
+    }
+  ],
+  "customerInfor": [{
+      "text": "TP HỒ CHÍ MINH",
+      "value": "HCM",
+      "districts": [{
+          "text": "TP HỒ CHÍ MINH",
+          "value": "HCM"
+        },
+        {
+          "text": "TP HỒ CHÍ MINH",
+          "value": "HCM"
+        }
+      ]
+    },
+    {
+      "text": "HÀ NỘI",
+      "value": "HN",
+      "districts": [{
+          "text": "Quận 1",
+          "value": "Q1"
+        },
+        {
+          "text": "QUẬN 2",
+          "value": "Q2"
+        }
+      ]
+    }
+
+  ]
+}
